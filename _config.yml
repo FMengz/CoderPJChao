@@ -5,8 +5,8 @@ header-img: img/home-bg.jpg
 email: 564357027@qq.com
 description: "CoderPJChao"
 keyword: "CoderPJChao"
-url: "http://coderpjchao.github.io"              # your host, for absolute URL
-baseurl: ""         # for example, '/blog' if your blog hosted on 'host/blog'
+url: "https://fmengz.github.io"              # your host, for absolute URL
+baseurl: "/CoderPJChao"         # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
@@ -83,7 +83,7 @@ featured-condition-size: 1              # A tag will be featured if the size of 
 friends: [
     {
         title: "Pegu_Blog",
-        href: "http://CoderPJChao.github.io"
+        href: "https://fmengz.github.io"
     },{
         title: "Pegu_CSDN",
         href: "http://blog.csdn.net/qq_33834670"
